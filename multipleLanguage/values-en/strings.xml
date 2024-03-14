@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DesignApp</string>
+    <string name="kullaniciadi">User Name</string>
+    <string name="sifre">Password</string>
+    <string name="ButtonYazı">LOGIN</string>
+    <string name="yardım">Help?</string>
+
+</resources>
